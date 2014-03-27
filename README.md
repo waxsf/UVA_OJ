@@ -17,4 +17,4 @@ cout<<"Hello World"<<endl;
 
 ```
 
-*You **can** combine them*
+*You can combine them*
